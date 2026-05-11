@@ -17,6 +17,7 @@ This repository contains all R scripts used in this study.
 | `RSF-pet.R` | Random Survival Forest (PET/CT modality) |
 | `XGBoost-clinic.R` | XGBoost (clinical modality) |
 | `XGBoost-gene.R` | XGBoost (genomic modality) |
+| `XGBoost-pet.R` | XGBoost (PET/CT modality) |
 | `Cox-clinic.R` | Cox regression (clinical modality) |
 | `Cox-gene.R` | Cox regression (genomic modality) |
 | `Cox-pet.R` | Cox regression (PET/CT modality) |
